@@ -1,0 +1,19 @@
+Card Serial   : US-06
+Module        : Application Management
+Priority      : High (Scope 2 - Student Management)
+Assigned To   : Sanzida al-noor
+Status        : To do
+
+User Story:
+  As a student, I want to apply and track my applications so that I know my progress.
+
+Screen Definition:
+  - Apply button on job listing
+  - Application status display (Pending / Shortlisted / Rejected)
+  - Application history list
+
+Acceptance Criteria:
+  - Application is submitted successfully with a confirmation message.
+  - Duplicate applications to the same posting are prevented.
+  - Application status is updated correctly when recruiter takes action.
+  - Student can view all submitted applications in one place.

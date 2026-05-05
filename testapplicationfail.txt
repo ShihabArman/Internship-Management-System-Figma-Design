@@ -1,0 +1,24 @@
+
+Open Job listings 
+
+Click apply without job 
+
+Check status 
+
+ 
+
+None 
+
+Page loads 
+
+Job details displayed  
+
+Application submitted 
+
+Status updated to “Applied” 
+
+
+Application error
+
+Fail 
+

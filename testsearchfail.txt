@@ -1,0 +1,28 @@
+
+Empty keyword  
+
+Search 
+
+Keyword:  
+
+“Empty” 
+
+Location: Dhaka 
+
+Click job title 
+
+Page loads 
+
+Relevant jobs displayed 
+
+Filter applied correctly 
+
+Job details displayed
+
+Crash 
+
+Irrelevant Data 
+
+Fail 
+
+ 

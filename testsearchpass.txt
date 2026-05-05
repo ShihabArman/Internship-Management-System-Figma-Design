@@ -1,0 +1,30 @@
+
+Open Job Search page 
+
+Enter Keyword 
+
+Apply filters 
+
+View Job details 
+
+Keyword: ”Internship” 
+
+Location: Dhaka 
+
+Click job title 
+
+Page loads 
+
+Relevant jobs displayed 
+
+Filter applied correctly 
+
+Job details displayed 
+
+As expected 
+
+Pass 
+
+ 
+
+ 
