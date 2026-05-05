@@ -1,0 +1,19 @@
+Card Serial   : US-01
+Module        : Login
+Priority      : High (Scope 1 - Core)
+Assigned To   : Shihab Arman
+Status        : To do
+
+User Story:
+  As a registered user, I want to log in so that I can use system features.
+
+Screen Definition:
+  - Email field
+  - Password field
+  - Login button
+
+Acceptance Criteria:
+  - Valid credentials are required for successful login.
+  - Error message is shown for invalid login attempts.
+  - User is redirected to their role-based dashboard after login.
+  - Session management is handled securely.
