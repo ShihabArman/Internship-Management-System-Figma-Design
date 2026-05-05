@@ -1,0 +1,20 @@
+Card Serial   : US-08
+Module        : Interview Management
+Priority      : Medium (Scope 3 - Interview Tools)
+Assigned To   : [Member Name]
+Status        : Backlog
+
+User Story:
+  As an HR member, I want to manage interviews so that the selection process is organized.
+
+Screen Definition:
+  - Schedule interview form (date, time, mode)
+  - Candidate notification option
+  - Interview result input field
+  - Interview list view
+
+Acceptance Criteria:
+  - Interview schedule is saved and linked to the correct applicant.
+  - Students are notified of their scheduled interview.
+  - Interview results are updated correctly after the interview.
+  - HR can reschedule or cancel an interview if needed.

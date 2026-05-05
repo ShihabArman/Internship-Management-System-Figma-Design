@@ -1,0 +1,20 @@
+Card Serial   : US-07
+Module        : Recruiter Dashboard
+Priority      : Medium (Scope 3 - Recruiter Tools)
+Assigned To   : [Member Name]
+Status        : Backlog
+
+User Story:
+  As a recruiter, I want to review applications so that I can shortlist candidates.
+
+Screen Definition:
+  - Applicant list with basic info
+  - Shortlist / Reject action buttons
+  - Filter and sort options
+  - Candidate profile view link
+
+Acceptance Criteria:
+  - Only authorized recruiters can access the dashboard.
+  - Shortlist action updates the application status successfully.
+  - Rejected candidates are notified (or status is updated).
+  - Recruiter can view full student profile before deciding.
