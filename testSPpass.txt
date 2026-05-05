@@ -1,0 +1,27 @@
+
+Open Profile page 
+
+Fill personal & academic details 
+
+Upload CV 
+
+Save profile 
+
+Valid info 
+
+CV.pdf 
+
+ 
+
+Profile page loads 
+
+Fields validated 
+
+File uploaded successfully 
+
+Profile saved successfully. 
+
+As expected 
+
+Pass 
+

@@ -1,0 +1,22 @@
+Card Serial   : US-03
+Module        : Student Profile
+Priority      : High (Scope 2 - Student Management)
+Assigned To   : [Md Sakib Uddin]
+Status        : To do
+
+User Story:
+  As a student, I want to create and update my profile so that recruiters can evaluate me.
+
+Screen Definition:
+  - Personal information fields
+  - Academic details fields
+  - Skills input
+  - CV / resume upload button
+  - Save / Update button
+
+Acceptance Criteria:
+  - All required fields are validated before saving.
+  - CV upload is supported (PDF format).
+  - Profile is saved successfully with a confirmation message.
+  - Career officer can review and approve the profile.
+  - Profile can be updated at any time.
