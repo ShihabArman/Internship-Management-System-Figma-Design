@@ -1,11 +1,7 @@
 
 Enter wrong password 
-
 Wrong password 
-
 Login successful, confirmation message shown 
-
 Login failed
-
 Fail 
 
