@@ -2,7 +2,7 @@ Card Serial   : US-04
 Module        : Job / Internship Posting
 Priority      : High (Scope 2 - Opportunity Management)
 Assigned To   : [Md Sakib Uddin]
-Status        : To do
+Status        : Completed
 
 User Story:
   As a company, I want to post jobs and internships so that students can apply.
