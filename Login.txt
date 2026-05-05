@@ -1,8 +1,8 @@
 Card Serial   : US-01
-Module        : Login
+Module        : Login Task
 Priority      : High (Scope 1 - Core)
 Assigned To   : Shihab Arman
-Status        : To do
+Status        : Completed
 
 User Story:
   As a registered user, I want to log in so that I can use system features.
