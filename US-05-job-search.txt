@@ -1,0 +1,20 @@
+Card Serial   : US-05
+Module        : Job Search
+Priority      : High (Scope 2 - Opportunity Management)
+Assigned To   : Sanzida al-noor
+Status        : To do
+
+User Story:
+  As a student, I want to search opportunities so that I can find suitable jobs or internships.
+
+Screen Definition:
+  - Search bar
+  - Filter options (keywords, skills, location, type)
+  - Job listing results area
+  - Job detail view
+
+Acceptance Criteria:
+  - Search results must be relevant to the entered keywords.
+  - Filter options work correctly and narrow results accurately.
+  - Job details are displayed clearly on selection.
+  - Empty state message shown when no results are found.

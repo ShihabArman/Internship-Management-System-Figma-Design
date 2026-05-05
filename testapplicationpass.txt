@@ -1,0 +1,23 @@
+
+Open Job listings 
+
+Click apply 
+
+Check status 
+
+ 
+
+Job ID:101 
+
+Page loads 
+
+Job details displayed  
+
+Application submitted 
+
+Status updated to “Applied” 
+
+As expected 
+
+Pass 
+
