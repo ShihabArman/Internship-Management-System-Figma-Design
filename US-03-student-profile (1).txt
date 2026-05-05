@@ -2,7 +2,7 @@ Card Serial   : US-03
 Module        : Student Profile
 Priority      : High (Scope 2 - Student Management)
 Assigned To   : [Md Sakib Uddin]
-Status        : To do
+Status        : To Do
 
 User Story:
   As a student, I want to create and update my profile so that recruiters can evaluate me.
