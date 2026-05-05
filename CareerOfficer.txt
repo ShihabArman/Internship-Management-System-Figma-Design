@@ -1,0 +1,20 @@
+Card Serial   : US-09
+Module        : Career Officer Module
+Priority      : Medium (Scope 3 - Monitoring)
+Assigned To   : [Member Name]
+Status        : Backlog
+
+User Story:
+  As a career officer, I want to monitor placements so that I can guide students effectively.
+
+Screen Definition:
+  - Student monitoring dashboard
+  - Placement status overview
+  - Career guidance resources section
+  - Student profile access
+
+Acceptance Criteria:
+  - Student data and placement status is visible and accurate.
+  - Guidance content is accessible from the dashboard.
+  - Placement status is updated in real time.
+  - Career officer can approve or flag student profiles.

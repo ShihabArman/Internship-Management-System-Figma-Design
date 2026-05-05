@@ -1,0 +1,20 @@
+Card Serial   : US-10
+Module        : Admin Dashboard
+Priority      : High (Scope 1 - Core)
+Assigned To   : Afsa Nur Subhana
+Status        : In Progress
+
+User Story:
+  As an admin, I want to manage the system so that it runs smoothly.
+
+Screen Definition:
+  - User management panel (view, approve, disable users)
+  - Job posting approval panel
+  - System reports and analytics view
+  - Settings and configuration access
+
+Acceptance Criteria:
+  - Admin can approve or reject user registrations and job postings.
+  - Reports are generated correctly and reflect real data.
+  - Admin-only access is strictly enforced (no other role can access).
+  - Admin can disable or remove any user account if needed.
