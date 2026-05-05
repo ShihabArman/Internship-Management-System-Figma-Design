@@ -1,0 +1,25 @@
+
+Test Steps 
+
+Test Data 
+
+Expected Results 
+
+Actual Results 
+
+Status (Pass/Fail) 
+
+Enter invalid data and submit 
+
+Empty name 
+
+invalid email 
+
+weak password 
+
+Registration successful, confirmation message shown 
+
+System accepts invalid data 
+
+Fail 
+

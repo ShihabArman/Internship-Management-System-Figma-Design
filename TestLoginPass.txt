@@ -1,0 +1,19 @@
+
+Go to Sign Up page 
+
+Enter all mandatory fields 
+
+Click Register 
+
+Name: USER 
+
+Email: user@test.com Password: Test@123  
+
+Role: Student 
+
+Login successful, confirmation message shown 
+
+As expected 
+
+Pass 
+

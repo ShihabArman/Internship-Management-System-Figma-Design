@@ -1,0 +1,22 @@
+Card Serial   : US-02
+Module        : Sign Up / User Registration
+Priority      : High (Scope 1 - Core)
+Assigned To   : Shihab Arman
+Status        : To do
+
+User Story:
+  As a new user, I want to register so that I can access the portal.
+
+Screen Definition:
+  - Name field
+  - Email field
+  - Password field
+  - Role selection (Student / Company / Career Officer / HR / Admin)
+  - Register button
+
+Acceptance Criteria:
+  - All mandatory fields must be filled before submission.
+  - Email must be unique in the system.
+  - Password must meet security rules (minimum length, complexity).
+  - Successful registration confirmation message is shown.
+  - Role-based redirection occurs after registration.
