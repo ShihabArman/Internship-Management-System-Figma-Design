@@ -1,0 +1,27 @@
+
+Open Admin Dashboard 
+
+Approve recruiter job posting 
+
+Manage users 
+
+ 
+
+Job ID: 101 
+
+Add new recruiter.  
+
+Remove inactive student. 
+
+ 
+
+Dashboard loads 
+
+Job visible to students after approval. 
+
+User list updates. 
+
+As expected 
+
+Pass 
+

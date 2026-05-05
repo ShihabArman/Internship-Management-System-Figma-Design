@@ -1,0 +1,21 @@
+
+Open Student Dashboard 
+
+View student data 
+
+Access guidance resources 
+
+Student ID: 201 
+
+ 
+
+Dashboard loads 
+
+Data visible 
+
+Resources accessible 
+
+As expected 
+
+Pass 
+
