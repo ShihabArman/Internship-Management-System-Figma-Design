@@ -1,0 +1,23 @@
+
+Open applicant list 
+
+Select Candidate 
+
+Click Shortlist 
+
+Candidate ID: 201 
+
+Candidate ID: 202 
+
+ 
+
+List displayed 
+
+Candidate highlighted 
+
+Status updated to “Shortlisted” 
+
+As expected 
+
+Pass 
+

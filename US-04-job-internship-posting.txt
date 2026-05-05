@@ -1,0 +1,22 @@
+Card Serial   : US-04
+Module        : Job / Internship Posting
+Priority      : High (Scope 2 - Opportunity Management)
+Assigned To   : [Md Sakib Uddin]
+Status        : To do
+
+User Story:
+  As a company, I want to post jobs and internships so that students can apply.
+
+Screen Definition:
+  - Job title field
+  - Description field
+  - Eligibility / qualifications field
+  - Application deadline field
+  - Location field
+  - Submit / Post button
+
+Acceptance Criteria:
+  - All mandatory details must be filled before posting.
+  - Post is visible to students only after admin approval.
+  - Confirmation message is displayed after successful submission.
+  - Company can edit or remove their post.
